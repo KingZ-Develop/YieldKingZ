@@ -22,9 +22,11 @@ Higher retention and easier acquisition of the users will naturally control supp
 
 ---
 # NFT
+<img src= "./images/nft.png">
 
 ---
 # Token Flow
+<img src= "./images/economy.png">
 
 ---
 ## 🕹️ [Demo Play](https://test.yieldkingz.io)
