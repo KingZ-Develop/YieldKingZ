@@ -29,6 +29,10 @@ Higher retention and easier acquisition of the users will naturally control supp
 <img src= "./images/economy.png">
 
 ---
+# Demo Video
+[![Watch the video](https://img.youtube.com/vi/Cm17kFkI4ys/hqdefault.jpg)](https://www.youtube.com/embed/Cm17kFkI4ys)
+
+---
 ## 🕹️ [Demo Play](https://test.yieldkingz.io)
 
 
