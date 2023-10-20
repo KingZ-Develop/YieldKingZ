@@ -33,8 +33,6 @@ Higher retention and easier acquisition of the users will naturally control supp
 [![Watch the video](https://img.youtube.com/vi/Cm17kFkI4ys/hqdefault.jpg)](https://www.youtube.com/embed/5p5dCLWd4LE)
 
 ---
-## 🕹️ [Demo OpBNB Play](https://opbnb.yieldkingz.io)
----
 ## 🕹️ [Demo Avalanche Play](https://test.yieldkingz.io)
 
 
