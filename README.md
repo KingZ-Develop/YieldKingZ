@@ -30,10 +30,10 @@ Higher retention and easier acquisition of the users will naturally control supp
 
 ---
 # Demo Video
-[![Watch the video](https://img.youtube.com/vi/Cm17kFkI4ys/hqdefault.jpg)](https://www.youtube.com/embed/5p5dCLWd4LE)
+[![Watch the video](https://img.youtube.com/vi/Cm17kFkI4ys/hqdefault.jpg)](https://youtu.be/63TfcNiQG1w)
 
 ---
-## 🕹️ [Demo Avalanche Play](https://test.yieldkingz.io)
+## 🕹️ [Demo Play](https://test.yieldkingz.io)
 
 
 
